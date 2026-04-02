@@ -1406,8 +1406,358 @@
       "findings_count": 1,
       "scan_type": "auto:ai-projects",
       "scan_count": 1
+    },
+    "SGRKAPOOR/Capstone-Project--Heartgaurd-and-Mindpal": {
+      "first_scan": "2026-04-02 05:01:09",
+      "last_scan": "2026-04-02 05:01:09",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "Ihebdhouibi/neuro": {
+      "first_scan": "2026-04-02 05:01:09",
+      "last_scan": "2026-04-02 05:01:09",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "akhilova/crystalia-glss-seo": {
+      "first_scan": "2026-04-02 05:01:10",
+      "last_scan": "2026-04-02 05:01:10",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "KobiBryant22/118I-RedTeam": {
+      "first_scan": "2026-04-02 05:01:10",
+      "last_scan": "2026-04-02 05:01:10",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "Khoray/test": {
+      "first_scan": "2026-04-02 05:01:10",
+      "last_scan": "2026-04-02 05:01:10",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "MihirVasoya/Gen_AI": {
+      "first_scan": "2026-04-02 05:01:11",
+      "last_scan": "2026-04-02 05:01:11",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "yongbuyabai/123": {
+      "first_scan": "2026-04-02 05:01:11",
+      "last_scan": "2026-04-02 05:01:11",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "TheSatyam-Singh/-LLaVA-Large-Language-Virtual-Assistant": {
+      "first_scan": "2026-04-02 05:01:11",
+      "last_scan": "2026-04-02 05:01:11",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "Gaystin/LLM-IDf-EnergyPlus-UI": {
+      "first_scan": "2026-04-02 05:01:11",
+      "last_scan": "2026-04-02 05:01:11",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "xiaowuc2/ChatGPT-Python-Applications": {
+      "first_scan": "2026-04-02 05:01:12",
+      "last_scan": "2026-04-02 05:01:12",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "johunsang/test2": {
+      "first_scan": "2026-04-02 05:01:12",
+      "last_scan": "2026-04-02 05:01:12",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "reecall/GraphTOD": {
+      "first_scan": "2026-04-02 05:01:12",
+      "last_scan": "2026-04-02 05:01:12",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "godlygodzilla/Turing-Test-ChatGPT_poem_classifier": {
+      "first_scan": "2026-04-02 05:01:12",
+      "last_scan": "2026-04-02 05:01:12",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "xiao1112121/igtool": {
+      "first_scan": "2026-04-02 05:01:13",
+      "last_scan": "2026-04-02 05:01:13",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "anthearn/adelined_engine": {
+      "first_scan": "2026-04-02 05:01:13",
+      "last_scan": "2026-04-02 05:01:13",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "ZJU-DCDLab/Triad": {
+      "first_scan": "2026-04-02 05:01:13",
+      "last_scan": "2026-04-02 05:01:13",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "mehdig071/ia": {
+      "first_scan": "2026-04-02 05:01:14",
+      "last_scan": "2026-04-02 05:01:14",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "joedanields/PRISM": {
+      "first_scan": "2026-04-02 05:01:14",
+      "last_scan": "2026-04-02 05:01:14",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "reorx/awesome-chatgpt-api": {
+      "first_scan": "2026-04-02 05:01:14",
+      "last_scan": "2026-04-02 05:01:14",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "cryptoking000/trading-analytics-tg-bot": {
+      "first_scan": "2026-04-02 05:01:14",
+      "last_scan": "2026-04-02 05:01:14",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "karlkalvin/crypto": {
+      "first_scan": "2026-04-02 05:01:15",
+      "last_scan": "2026-04-02 05:01:15",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "FcoinCrypto/autogpt": {
+      "first_scan": "2026-04-02 05:01:15",
+      "last_scan": "2026-04-02 05:01:15",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "ashmaresg/Auto-GPT": {
+      "first_scan": "2026-04-02 05:01:15",
+      "last_scan": "2026-04-02 05:01:15",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "easyasme/Code_Readability": {
+      "first_scan": "2026-04-02 05:01:16",
+      "last_scan": "2026-04-02 05:01:16",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "aaaadigup/web_scr-chatbot-poc": {
+      "first_scan": "2026-04-02 05:01:16",
+      "last_scan": "2026-04-02 05:01:16",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "devolution007/AI-Chatbot": {
+      "first_scan": "2026-04-02 05:01:16",
+      "last_scan": "2026-04-02 05:01:16",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "AaravPilania/ai-chatbot": {
+      "first_scan": "2026-04-02 05:01:16",
+      "last_scan": "2026-04-02 05:01:16",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "stormulv/validator-dashboard-deprecated": {
+      "first_scan": "2026-04-02 05:01:19",
+      "last_scan": "2026-04-02 05:01:19",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "aekdahl/LangSwarm": {
+      "first_scan": "2026-04-02 05:01:19",
+      "last_scan": "2026-04-02 05:01:19",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "OmerBassan/cham_HE": {
+      "first_scan": "2026-04-02 05:01:19",
+      "last_scan": "2026-04-02 05:01:19",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "GetGoAPI/Free-GPT-Grok-Gemini-Claude-API": {
+      "first_scan": "2026-04-02 05:01:19",
+      "last_scan": "2026-04-02 05:01:19",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "Haytam23/FinanceDashboard": {
+      "first_scan": "2026-04-02 05:01:20",
+      "last_scan": "2026-04-02 05:01:20",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "openclaw/skills": {
+      "first_scan": "2026-04-02 05:01:20",
+      "last_scan": "2026-04-02 05:01:20",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "crewAIInc/crewAI": {
+      "first_scan": "2026-04-02 05:01:20",
+      "last_scan": "2026-04-02 05:01:20",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "MattSteffen/internal-perplexity": {
+      "first_scan": "2026-04-02 05:01:21",
+      "last_scan": "2026-04-02 05:01:21",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "thesohamdatta/Rag-Chatbot": {
+      "first_scan": "2026-04-02 05:01:21",
+      "last_scan": "2026-04-02 05:01:21",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "Serverless-Devs/agentrun-sdk-python": {
+      "first_scan": "2026-04-02 05:01:21",
+      "last_scan": "2026-04-02 05:01:21",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "Gosshi/gym-equipment-directory": {
+      "first_scan": "2026-04-02 05:01:21",
+      "last_scan": "2026-04-02 05:01:21",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "YJiangcm/LTE": {
+      "first_scan": "2026-04-02 05:01:22",
+      "last_scan": "2026-04-02 05:01:22",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "sine-io/byte-of-nanobot": {
+      "first_scan": "2026-04-02 05:01:22",
+      "last_scan": "2026-04-02 05:01:22",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "ace-step/ACE-Step-1.5": {
+      "first_scan": "2026-04-02 05:01:22",
+      "last_scan": "2026-04-02 05:01:22",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "Damrl-lab/SSD_LLM": {
+      "first_scan": "2026-04-02 05:01:23",
+      "last_scan": "2026-04-02 05:01:23",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "AKIVA-AI/toolkit-llm-gateway": {
+      "first_scan": "2026-04-02 05:01:23",
+      "last_scan": "2026-04-02 05:01:23",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "mannanshukla/superagent-independent-study": {
+      "first_scan": "2026-04-02 05:01:23",
+      "last_scan": "2026-04-02 05:01:23",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "Portkey-AI/portkey-python-sdk": {
+      "first_scan": "2026-04-02 05:01:23",
+      "last_scan": "2026-04-02 05:01:23",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "huggingface/optimum-neuron": {
+      "first_scan": "2026-04-02 05:01:24",
+      "last_scan": "2026-04-02 05:01:24",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "velagalasr/ai-chatbot-template": {
+      "first_scan": "2026-04-02 05:01:24",
+      "last_scan": "2026-04-02 05:01:24",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "He-ship-sar/ACYOLO": {
+      "first_scan": "2026-04-02 05:01:24",
+      "last_scan": "2026-04-02 05:01:24",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "Robbe1991/agentgym": {
+      "first_scan": "2026-04-02 05:01:25",
+      "last_scan": "2026-04-02 05:01:25",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "Saburi314/yarungo": {
+      "first_scan": "2026-04-02 05:01:25",
+      "last_scan": "2026-04-02 05:01:25",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
     }
   },
-  "total_scanned": 201,
-  "last_updated": "2026-04-01 09:30:06"
+  "total_scanned": 251,
+  "last_updated": "2026-04-02 05:01:25"
 }
